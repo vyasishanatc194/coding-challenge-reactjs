@@ -1,0 +1,1 @@
+export { getLikes, saveLike } from '../network/like';
